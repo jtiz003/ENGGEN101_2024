@@ -8,6 +8,6 @@ This repository contains supplementary material for the ENGGEN 101G course, at t
 
 -	The corresponding lecture slides, from the “writing software programs” module.
 
-**Python versio**n: Created with 3.12.3
+**Python version**: Created with 3.12.3
 
 **Dependencies/libraries**: None 
