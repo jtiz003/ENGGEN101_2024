@@ -9,8 +9,6 @@ This material is intended to help introduce fundamental python concepts
 
 - 18 x Python scripts, each introducing a fundamental python concept.
 
--	The corresponding lecture slides, from the “writing software programs” module.
-
 **Python version**: Created with 3.12.3
 
 **Dependencies/libraries**: None 
